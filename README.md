@@ -3,41 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fruits CLI - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f4f4f9;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-size: 1em;
-    }
-    pre {
-      background: #272822;
-      color: #f8f8f2;
-      padding: 10px;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    ul {
-      margin: 10px 0;
-      padding: 0 20px;
-    }
-    a {
-      color: #1a73e8;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <h1>🍉 Fruits CLI</h1>
